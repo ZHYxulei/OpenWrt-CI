@@ -1,5 +1,7 @@
 [English](README-en.md) ←
 
+# 此仓库已经过时
+
 # 借助 GitHub Actions 的 OpenWrt 在线集成自动编译.
 
 ## [![Build](https://img.shields.io/github/workflow/status/KFERMercer/OpenWrt/OpenWrt-CI/master?)](https://github.com/KFERMercer/OpenWrt/actions?query=workflow%3AOpenWrt-CI) [![Release](https://img.shields.io/github/release/KFERMercer/OpenWrt-CI?color=blue)](https://github.com/KFERMercer/OpenWrt-CI/releases)
